@@ -1,0 +1,18 @@
+card colors 
+- #e38826 orange
+- #006970 cyan
+- #004241 dark cyan
+
+card sizes :
+width 450px
+radius 15px
+
+card title :
+font size 25px, uppercase
+
+card description :
+color hsla(0, 0%, 100%, 0.55)
+font size 15px
+
+card button :
+font radius 25px
